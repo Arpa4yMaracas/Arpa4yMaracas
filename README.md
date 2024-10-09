@@ -11,6 +11,4 @@
 <div style="display: inline_block"><br/>
   <img alimg="center" alt="linguagem c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpa4yMaracas)](https://github.com/Arpa4yMaracas/github-readme-stats)
-
-Apaixonado pela tecnologia...
+Apaixonado pela tecnologia.
