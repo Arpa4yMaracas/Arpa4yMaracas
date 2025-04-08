@@ -9,7 +9,7 @@
 <img height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img height="40" width="30" src = "(https://github.com/user-attachments/assets/a4e08552-81f2-40fd-806e-419a765d6607)" />
+<img height="40" width="30" src = "https://github.com/user-attachments/assets/a4e08552-81f2-40fd-806e-419a765d6607" />
 </div>
 
 ##
